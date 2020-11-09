@@ -1,6 +1,8 @@
 # Akaki-Joystick
 3D printable flight simulator joystick, throttle and pedals. USB HID support with Arduino
 
+![photo](https://cdn.thingiverse.com/assets/42/98/18/75/1f/large_display_Screen_Shot_2020-08-22_at_23.09.42.jpg)
+
 https://www.youtube.com/watch?v=na3NeZJYK3g&t=1s
 
 Flight stick for flight simulator games. Appears as a regular USB joystick on Windows and Mac, thanks to the Arduino Pro Micro inside.
